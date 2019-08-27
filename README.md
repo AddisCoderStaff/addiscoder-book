@@ -4,7 +4,7 @@
 
 You can preview the latest version of the coursenotes here:
 
-	https://nbviewer.jupyter.org/github/kashizui/addiscoder-course-notes/blob/master/coursenotes.ipynb
+https://nbviewer.jupyter.org/github/kashizui/addiscoder-course-notes/blob/master/coursenotes.ipynb
 
 ## Contributing
 
@@ -16,5 +16,5 @@ A useful tool for diffing and merging Jupyter notebooks is nbdime.
 
 Documentation for nbdime can be found here:
 
-	https://nbdime.readthedocs.io/en/latest/
+https://nbdime.readthedocs.io/en/latest/
 
