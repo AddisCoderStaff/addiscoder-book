@@ -2,7 +2,7 @@
 
 ## View
 
-You can preview the latest version of the coursenotes here:
+You can preview the latest version of the book here:
 
 https://nbviewer.jupyter.org/github/kashizui/addiscoder-course-notes/blob/master/coursenotes.ipynb
 
